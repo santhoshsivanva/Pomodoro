@@ -1,4 +1,27 @@
-# Pomodoro
-The pomodoro technique essentially trains people to focus on tasks better by limiting the length of time they attempt to maintain that focus and ensuring restorative breaks from the effort. 
-This Pomodoro app comes with an interactive sound-based timer that includes short and long time intervals after each work session.
-GUI part of this app developed with tkinter framework, complete python files are converted into window executable format under the dist folder.
+# Pomodoro Timer
+Pomodoro Timer is a simple desktop application for managing work sessions and breaks using the Pomodoro technique. The application is built using Python and Tkinter, a popular Python GUI framework.
+
+# Features
+Configure work and break duration
+Start, pause, and reset the timer
+Audio and visual notifications for work and break sessions
+Track and display the number of completed work sessions
+
+# Installation
+Clone this repository to your local machine.
+Install the required packages using pip: pip install -r requirements.txt.
+Run the application: python pomodoro.py.
+
+# Usage
+Click the "Start" button to begin the timer.
+During work sessions, the application will display a countdown timer and a progress bar.
+When a work session ends, the application will play a sound and display a message prompting you to take a break.
+During break sessions, the application will display a countdown timer and a progress bar.
+When a break session ends, the application will play a sound and display a message prompting you to start another work session.
+Automatically continue without no time duration.
+
+# Executable files
+The GUI part of this app developed with Tkinter framework. The complete python files are converted into window executable format under the dist folder.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
