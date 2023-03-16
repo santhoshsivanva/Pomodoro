@@ -22,6 +22,7 @@ Automatically continue without no time duration.
 
 # Executable files
 The GUI part of this app developed with Tkinter framework. The complete python files are converted into window executable format under the dist folder.
+[CLICK HERE](https://github.com/santhoshsivanva/Pomodoro/tree/master/dist)
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
